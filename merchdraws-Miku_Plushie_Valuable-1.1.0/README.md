@@ -12,6 +12,6 @@ Adds a Hatsune Miku plushie that appears on all levels that use the `Valuables -
 
 # Version 1.1.0
 
-Added larger Miku Plushie that appears on all levels that use the `Valuables - Generic` valuable preset, and the Museum which does not use this valuable preset.
+Added a larger Miku Plushie that appears on all levels that use the `Valuables - Generic` valuable preset, and the Museum.
 
 Added a golden Miku that appears on the Museum level which is very heavy, but worth a lot more.
