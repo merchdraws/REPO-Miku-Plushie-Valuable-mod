@@ -1,9 +1,0 @@
-{
-  "name": "Miku_Plushie_Valuable",
-  "description": "Adds Hatsune Miku plushies as valuables to collect on maps",
-  "version_number": "1.2.0",
-  "dependencies": [
-    "Zehs-REPOLib-2.1.0"
-  ],
-  "website_url": "https://github.com/merchdraws/REPO-Miku-Plushie-Valuable-mod"
-}
